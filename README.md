@@ -1,9 +1,9 @@
-# Hi there 👋
+# Bonjour! Welcome to my GitHub.
 
-Software engineer who loves clean code and great design.
+Just another curious mind building cool things on the internet.
 
-🧠 I enjoy solving complex problems and turning ideas into reality.
+💡 Interests: Web development, Blockchain, AI, and DevOps.
 
-> “Talk is cheap. Show me the code.” – Linus Torvalds
+> “First, solve the problem. Then, write the code.” – John Johnson
 
-Feel free to explore my repositories 🚀
+Happy coding! 🙌
